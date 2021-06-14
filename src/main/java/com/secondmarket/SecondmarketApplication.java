@@ -1,0 +1,12 @@
+package com.secondmarket;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+@SpringBootApplication
+public class SecondmarketApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(SecondmarketApplication.class, args);
+    }
+
+}
